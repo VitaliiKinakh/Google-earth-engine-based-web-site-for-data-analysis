@@ -6,9 +6,9 @@ All you need to do - draw polygon and get result.</p>
 <p>Also you should have Google Earth Engine account to use this web-site.</p>
 <p>This web-site have some main functions</p>
 <ul>
-<li>Fine mean value in polygon</li>
-<li>Fine max value in polygon</li>
-<li>Fine min value in polygon</li>
-<li>Fine sum of value in polygon</li>
+<li>Find mean value in polygon</li>
+<li>Find max value in polygon</li>
+<li>Find min value in polygon</li>
+<li>Find sum of value in polygon</li>
 <li>Get pixels where value are greater or lower than specific value</li>
 </ul>
